@@ -290,7 +290,7 @@ export default function AdverzoMediaWebsite() {
           <div className="container mx-auto px-4 py-4 flex items-center justify-between">
            <div className="text-2xl font-bold text-[#0A2540] flex items-center space-x-1">
             <span itemProp="name">Adverzo</span>
-            <span className="text-[#00D4FF]">Media</span>
+            <span className="text-[#00D4FF]">BY TECH</span>
            </div>
             <nav className="hidden md:flex items-center space-x-8" role="navigation" aria-label="Main navigation">
               <button
